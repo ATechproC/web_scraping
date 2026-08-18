@@ -1,0 +1,92 @@
+[
+    {
+        "postcode": "DA1",
+        "locationName": "Dartford, Crayford",
+        "locationId": "OUTCODE^589"
+    },
+    {
+        "postcode": "DA2",
+        "locationName": "Dartford (East), Wilmington, Bean",
+        "locationId": "OUTCODE^599"
+    },
+    {
+        "postcode": "DA3",
+        "locationName": "Longfield, Hartley, New Ash Green",
+        "locationId": "OUTCODE^600"
+    },
+    {
+        "postcode": "DA4",
+        "locationName": "Farningham, Eynsford, South Darenth",
+        "locationId": "OUTCODE^601"
+    },
+    {
+        "postcode": "DA5",
+        "locationName": "Bexley, Albion Lock",
+        "locationId": "OUTCODE^602"
+    },
+    {
+        "postcode": "DA6",
+        "locationName": "Bexleyheath, Upton",
+        "locationId": "OUTCODE^603"
+    },
+    {
+        "postcode": "DA7",
+        "locationName": "Bexleyheath (North), Barnehurst",
+        "locationId": "OUTCODE^604"
+    },
+    {
+        "postcode": "DA8",
+        "locationName": "Erith, Northumberland Heath",
+        "locationId": "OUTCODE^605"
+    },
+    {
+        "postcode": "DA9",
+        "locationName": "Greenhithe, Swanscombe",
+        "locationId": "OUTCODE^606"
+    },
+    {
+        "postcode": "DA10",
+        "locationName": "Swanscombe, Ebbsfleet",
+        "locationId": "OUTCODE^607"
+    },
+    {
+        "postcode": "DA11",
+        "locationName": "Gravesend (West), Northfleet",
+        "locationId": "OUTCODE^608"
+    },
+    {
+        "postcode": "DA12",
+        "locationName": "Gravesend (East), Chalk, Shorne",
+        "locationId": "OUTCODE^609"
+    },
+    {
+        "postcode": "DA13",
+        "locationName": "Meopham, Istead Rise, Cobham",
+        "locationId": "OUTCODE^610"
+    },
+    {
+        "postcode": "DA14",
+        "locationName": "Sidcup, Foots Cray",
+        "locationId": "OUTCODE^611"
+    },
+    {
+        "postcode": "DA15",
+        "locationName": "Sidcup (North), Blackfen",
+        "locationId": "OUTCODE^612"
+    },
+    {
+        "postcode": "DA16",
+        "locationName": "Welling, Falconwood",
+        "locationId": "OUTCODE^613"
+    },
+    {
+        "postcode": "DA17",
+        "locationName": "Belvedere",
+        "locationId": "OUTCODE^614"
+    },
+    {
+        "postcode": "DA18",
+        "locationName": "Erith Marshes, Thamesmead East",
+        "locationId": "OUTCODE^615"
+    }
+]
